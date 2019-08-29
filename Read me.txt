@@ -1,2 +1,0 @@
-This is the splitting dataset with 80% Training , 10% validation and 10% testing
-In this DS, for C5 and C10 the NA were added to the positive class
